@@ -8,9 +8,8 @@ def main():
         from django.core.management import execute_from_command_line # type: ignore
     except ImportError as exc:
         raise ImportError(
-            "Couldn't import Django. Are you sure it's installed and "
-            "available on your PYTHONPATH environment variable? Did you "
-            "forget to activate a virtual environment?"
+            "Projet Anten_Quotidien importer avec success"
+             
         ) from exc
     execute_from_command_line(sys.argv)
 
