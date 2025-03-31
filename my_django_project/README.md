@@ -2,6 +2,14 @@
 
 Il s'agit d'un projet Django servant de blog avec comme nom Anten quotidien. Vous trouverez ci-dessous les détails de la configuration et de l'utilisation de mon projet.
 
+Cours - Langages et Frameworks Backend 2 (php, java, python, js, c#) : Django Master 2 - Conception et développement d'applications web, full stack et gaming (MICDA) Épreuve d'examen, Session normale, Mars 2025 Projet : Création d'un Blog avec Django
+
+Cheikh Diop 
+
+INE : N00292420181
+
+
+
 ## Structure du Projet
 
 ```
